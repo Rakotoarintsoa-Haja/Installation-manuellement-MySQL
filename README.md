@@ -1,3 +1,4 @@
+'''
 # Installation-manuellement-MySQL
 Installation manuel MySQL linux 
 Salut cher visiteur : 
@@ -22,3 +23,4 @@ $ cd  mysql-8.0.3
 $ : ./configure
 $ : make
 $ : sudo make install 
+'''
