@@ -18,7 +18,7 @@ Maintenant vous devez installer cmake et openSll si deja installer vous pouvez s
 3) ./bootstrap 4)make 5)sudo make install
 Opensll et cmake sont des dépendances de cet installation
 Vous devez execute ces commandes maintenant :
-$cd mysql-8.0.3
+$ cd  mysql-8.0.3
 $ : ./configure
 $ : make
 $ : sudo make install 
